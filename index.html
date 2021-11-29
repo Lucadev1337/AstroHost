@@ -22,7 +22,29 @@
 <link rel="stylesheet" href="css/all.css" as="style">
 <link rel="stylesheet" type="text/css" href="css/style.css">
 
+<style>
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
 
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 0px grey; 
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #17c1ff; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #16b9f5; 
+}
+</style>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script>
@@ -87,15 +109,6 @@ $(document).ready(function(){
             </div>
         </div>
     </nav>
-
-	<div align="center">
- <marquee behavior="alternate" bgcolor="#a8dfff" direction="left" height:="" 
- loop="7" scrollamount="1" scrolldelay="2" width="100%">
- <span style="font-size: 20px;color:#ffffff">
- Disclaimer: Our client area isn't available because AstroHost isn't fully released yet!</span></marquee>
-</div>
-	
-
     <div id="top-content" class="container-fluid">
         <div class="container">
             <div class="row">
@@ -278,6 +291,14 @@ $(document).ready(function(){
         </div>
     </div>
 </div>
+
+<div align="center">
+ <marquee behavior="alternate" bgcolor="#a8dfff" direction="left" height:="" 
+ loop="7" scrollamount="1" scrolldelay="2" width="100%">
+ <span style="font-size: 20px;color:#ffffff">
+ Disclaimer: Our client area isn't available because AstroHost isn't fully released yet!</span></marquee>
+</div>
+
 <div id="search-box" class="container-fluid">
     <div class="container">
         <div class="row">
