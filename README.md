@@ -1,4 +1,4 @@
-# Standard Readme
+# Official AstroHost Website
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
@@ -8,7 +8,7 @@ Your README file is normally the first entry point to your code. It should tell 
 
 ## Maintainers
 
-[@LucaDev1337](https://github.com/Lucadev1337).
+[@LucaDev](https://github.com/Lucadev1337).
 
 ## Contributing
 
