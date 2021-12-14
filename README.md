@@ -1,3 +1,5 @@
+https://img.shields.io/badge/Discord%20Server-Join-red
+
 # AstroHost Website
 
 
