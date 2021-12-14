@@ -19,7 +19,7 @@ AstroHost follows the [Contributor Covenant](http://contributor-covenant.org/ver
 ### Contributors
 
 This project exists thanks to all the people who contribute. 
-<a href="https://github.com/Lucadev1337/AstroHost/graphs/contributors"><img src="https://opencollective.com/AstroHost/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/Lucadev1337/AstroHost/graphs/contributors"><img src="https://avatars.githubusercontent.com/u/80783585?v=4?width=890&button=false" /></a>
 
 
 ## License
