@@ -1,3 +1,4 @@
+[![standard-readme compliant](https://img.shields.io/badge/Discord%20Server-Join-red.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 https://img.shields.io/badge/Discord%20Server-Join-red
 
 # AstroHost Website
