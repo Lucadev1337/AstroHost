@@ -22,4 +22,4 @@ AstroHost follows the [Contributor Covenant](http://contributor-covenant.org/ver
 
 ## License
 
-[GNU](LICENSE) © Luca Mergell
+[GNU](LICENSE) © LucaDev
