@@ -1,4 +1,4 @@
-[![Discord Server](https://img.shields.io/badge/Discord%20Server-Join-red.svg?style=flat-square)](https://discord.gg/WVW8qBdC) | [![Website](https://img.shields.io/badge/Website-Visit-brightgreen.svg?style=flat-square)](https://astrohost.xyz)
+[![Discord Server](https://img.shields.io/badge/Discord%20Server-Join-red.svg?style=flat-square)](https://discord.gg/WVW8qBdC) [![Website](https://img.shields.io/badge/Website-Visit-brightgreen.svg?style=flat-square)](https://astrohost.xyz)
 
 # AstroHost Website
 
